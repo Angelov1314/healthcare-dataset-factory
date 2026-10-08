@@ -1,0 +1,1 @@
+CREATE DATABASE healthcare_factory_test;
